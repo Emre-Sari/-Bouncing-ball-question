@@ -8,4 +8,4 @@
 - Threads 
 - Graphics
 ## Demo
-<img src="https://im5.ezgif.com/tmp/ezgif-5-4ec2ac5c8e.gif" width="700"> 
+<img src="https://github.com/Emre-Sari/-Bouncing-ball-question/blob/master/20221001_113536.gif" width="700"> 
