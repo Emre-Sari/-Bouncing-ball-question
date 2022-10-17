@@ -1,7 +1,7 @@
 # -Bouncing-ball-question
 <img src="https://img.icons8.com/nolan/64/bouncing-ball.png"/> <b/>
 - 
-20% when it hits everywhere lower bouncing ball algorithm question
+20% less bouncing ball algorithm questions each time it hits the ground.
 ## Technologies and Libraries
 - Runnable
 - JFrame
